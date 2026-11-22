@@ -10,7 +10,7 @@
 
 1. Download `Arbor-<version>-win-x64.zip` from the latest release on the [Releases](../../releases/latest) page.
 2. Unzip it anywhere, for example `%LOCALAPPDATA%\Programs\Arbor`.
-3. Run `MediaSorter.exe`.
+3. Run `Arbor.exe`.
 
 Windows 10 or 11, 64-bit. Arbor checks this page for new versions (you can turn that off in Settings); it sends nothing about you or your files.
 
