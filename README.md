@@ -7,7 +7,7 @@
 - **File Sorter**: every file into a folder per type.
 - **Space Finder**: what's using your disk, the biggest files, and old stuff by your own time span (not opened, not changed, or made).
 - **Image Resizer**: makes photos smaller and converts them: JPG, PNG, WebP, AVIF, TIFF or BMP. HEIC photos can be read and saved in any of these.
-- **Video Converter**: shrinks or converts every video in a folder. MP4, MKV, MOV or WebM; HEVC, H.264, AV1 or VP9. Your graphics chip does the work, and nothing is made bigger.
+- **Video Optimiser**: shrinks or converts every video in a folder. MP4, MKV, MOV or WebM; HEVC, H.264, AV1 or VP9. Your graphics chip does the work, and nothing is made bigger.
 - **Empty Folder Remover**: clears out folders with nothing in them.
 
 ## Good to know
@@ -32,6 +32,6 @@ Prefer no installer? Download `Arbor-<version>-win-x64.zip` instead, unzip it an
 
 Windows 10 or 11, 64-bit. Arbor checks this page for new versions (you can turn that off in Settings); it sends nothing about you or your files.
 
-Video Converter uses [FFmpeg](https://ffmpeg.org) (LGPL build), included in the `Tools\ffmpeg` folder with its licence.
+Video Optimiser uses [FFmpeg](https://ffmpeg.org) (LGPL build), included in the `Tools\ffmpeg` folder with its licence.
 
 This repository holds the downloads only.
